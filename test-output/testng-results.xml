@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on contacts link...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on contacts look up image...]]>
+    </line>
+    <line>
+      <![CDATA[Contact created successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Header Captured...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-19T21:52:06 IST" name="Default suite" finished-at="2023-10-19T21:52:43 IST" duration-ms="36916">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateContactTest.createContactTest()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" name="createContactTest" class="ContactsTests.CreateContactTest"/>
+      </group> <!-- RegressionSuite -->
+      <group name="SmokeSuite">
+        <method signature="CreateContactTest.createContactTest()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" name="createContactTest" class="ContactsTests.CreateContactTest"/>
+      </group> <!-- SmokeSuite -->
+    </groups>
+    <test started-at="2023-10-19T21:52:06 IST" name="Default test" finished-at="2023-10-19T21:52:43 IST" duration-ms="36916">
+      <class name="ContactsTests.CreateContactTest">
+        <test-method is-config="true" signature="bsconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:06 IST" name="bsconfig" finished-at="2023-10-19T21:52:06 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsconfig -->
+        <test-method is-config="true" signature="bcconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:07 IST" name="bcconfig" finished-at="2023-10-19T21:52:14 IST" duration-ms="7453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcconfig -->
+        <test-method is-config="true" signature="bmconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:14 IST" name="bmconfig" finished-at="2023-10-19T21:52:20 IST" duration-ms="5388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmconfig -->
+        <test-method signature="createContactTest()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:20 IST" name="createContactTest" finished-at="2023-10-19T21:52:39 IST" duration-ms="19312" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on contacts link...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on contacts look up image...]]>
+            </line>
+            <line>
+              <![CDATA[Contact created successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Header Captured...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="amconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:39 IST" name="amconfig" finished-at="2023-10-19T21:52:43 IST" duration-ms="3556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amconfig -->
+        <test-method is-config="true" signature="acconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:43 IST" name="acconfig" finished-at="2023-10-19T21:52:43 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acconfig -->
+        <test-method is-config="true" signature="asconfig()[pri:0, instance:ContactsTests.CreateContactTest@7188af83]" started-at="2023-10-19T21:52:44 IST" name="asconfig" finished-at="2023-10-19T21:52:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asconfig -->
+      </class> <!-- ContactsTests.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
