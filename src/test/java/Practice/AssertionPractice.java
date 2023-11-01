@@ -13,5 +13,7 @@ public class AssertionPractice {
 		Assert.assertTrue(false);
 		System.out.println("Step3");
 		System.out.println("Step4");
+		System.out.println("Step5");
+		
 	}
 }
